@@ -1,12 +1,15 @@
 PRODUCT OVERVIEW
+
 THIS APP HELPS TO ENSURE THE SMOOTH FLOW OF MEAL DISTRIBUTION. 
 the platform addresses the problem of overcrowding, long queues, and uncomfortable waiting conditions at the central cafeteria by introducing a decentralized meal collection system across designated church centres. Rather than requiring students from different church centres to converge at one cafeteria to collect their meals, MealFlow enables food to be distributed to designated collection points closer to where students attend services. The application will allow students to access their meal collection information, view their assigned collection centre, and obtain a digital QR code for meal verification. Distribution personnel will use the system to verify students, record meal collections, and monitor the number of meals distributed, while administrators will manage meal allocation across the different centres.
 The first version of this proposed app would focus on student authentication, worship centre information, qr based meal verification, meal collection tracking, and basic meal allocation. these few features are sufficient to check whether a decentralised meal distribution system can help reduce waiting times, minimise the crowd in caf and improve the overalL food collection for students. there could also be a feature where students cvanm input the type of rice they want to eat the nigh before so that cafeteria workers can know the amount of type of food to deploy to these various worship centres.
   
 PROBLEM STATEMENT
+
 after saturday church services, students experience long queues at the cafeteria while waiting to scan their id cards and collect their meals, since students come to the same point to collect food from different churches, the process becomes congested and students would have to wait under the sun before it gets to their turn for their ids to be scanned.
 
 BUSINESS OBJECTIVE
+
 Key Business Objectives
 - Reduce waiting time: Minimize the amount of time students spend standing in queues to collect their meals, especially after Saturday church services.
 
@@ -21,9 +24,11 @@ Key Business Objectives
 - Improve accountability and tracking: Maintain accurate records of meal collection, including the number of meals distributed and the number remaining.
 
 TARGET USERS
+
 this problem affects mostly students as after a stressful church service they would still come to queue for food. take for example those whose church parish is in the BUTH 600 seater which is really far from the school's cafeteria. after finishing servivce they would still have to walk down to queue.
 
 STAKEHOLDERS
+
 - Students
 - Food distribution staff
 - Meal distribution coordinators
@@ -33,6 +38,7 @@ STAKEHOLDERS
 - System administrators
 
 USER STORIES
+
 Q: what is your experience collecting food after church?
 student; most times when we finish church getting to caf the place is already crowded my church is a bit far off so before i get to caf its already crowded
 Q:what do you do when the queue is too long
@@ -51,6 +57,7 @@ so the students try to bypass the crowd by leaving church early but sometimes st
 
 
 FUNCTIONAL REQUIREMENTS OF MEALFLOW
+
 - Students should be able to log in to the system.
 - Students should be able to view their assigned food collection centre.
 - Students should be able to access their QR meal pass.
@@ -62,6 +69,7 @@ FUNCTIONAL REQUIREMENTS OF MEALFLOW
 
 
 NON FUNCTIONAL REQUIREMENTS OF MEALFLOW
+
 Performance: The system should generate and display QR meal passes quickly without unnecessary delays.
 Security: Students' personal information and meal records should be protected from unauthorized access.
 Usability: The system should be simple and easy to use for both students and distribution staff.
@@ -72,6 +80,7 @@ Compatibility: The system should work on smartphones, tablets, and computers wit
 Accuracy: Meal allocation and collection records should be accurate 
 
 SCOPE AND PRIORITIES
+
 Scope
 MealFlow will focus on making meal collection easier for students by reducing long queues and improving the organization of food distribution.
 In Scope
@@ -103,6 +112,7 @@ Low Priority
 -food rating
 
 ACCEPTANCE CRITERIA
+
 -Student Login: Verify that a student can log in with valid details and is denied access with incorrect details.
 -Collection Centre Assignment: Verify that a student can see the collection centre assigned to them.
 -QR Meal Pass: Verify that each eligible student has a QR code that can be displayed and scanned.
@@ -111,6 +121,7 @@ ACCEPTANCE CRITERIA
 
 
 ASSUMPTIONS
+
 -Students have access to smartphones and internet connectivity to use MealFlow.
 -Every student is eligible for only one meal per distribution period.
 -Each student will be assigned to a designated collection centre.
