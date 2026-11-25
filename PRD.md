@@ -1,14 +1,10 @@
-
 PRODUCT OVERVIEW
-
 THIS APP HELPS TO ENSURE THE SMOOTH FLOW OF MEAL DISTRIBUTION. 
 the platform addresses the problem of overcrowding, long queues, and uncomfortable waiting conditions at the central cafeteria by introducing a decentralized meal collection system across designated church centres. Rather than requiring students from different church centres to converge at one cafeteria to collect their meals, MealFlow enables food to be distributed to designated collection points closer to where students attend services. The application will allow students to access their meal collection information, view their assigned collection centre, and obtain a digital QR code for meal verification. Distribution personnel will use the system to verify students, record meal collections, and monitor the number of meals distributed, while administrators will manage meal allocation across the different centres.
 The first version of this proposed app would focus on student authentication, worship centre information, qr based meal verification, meal collection tracking, and basic meal allocation. these few features are sufficient to check whether a decentralised meal distribution system can help reduce waiting times, minimise the crowd in caf and improve the overalL food collection for students. there could also be a feature where students cvanm input the type of rice they want to eat the nigh before so that cafeteria workers can know the amount of type of food to deploy to these various worship centres.
   
-
 PROBLEM STATEMENT
 after saturday church services, students experience long queues at the cafeteria while waiting to scan their id cards and collect their meals, since students come to the same point to collect food from different churches, the process becomes congested and students would have to wait under the sun before it gets to their turn for their ids to be scanned.
-
 
 BUSINESS OBJECTIVE
 Key Business Objectives
@@ -128,4 +124,5 @@ Open Questions
 - How many collection centres will be available?
 - What happens if a student loses access to their QR code or their phone battery dies?
 - Will QR codes work without an internet connection?
+
 
